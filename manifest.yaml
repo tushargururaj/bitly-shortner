@@ -3,15 +3,15 @@ type: plugin
 author: tushargururaj
 name: bitly_shortner
 label:
-  en_US: bitly_shortner
-  ja_JP: bitly_shortner
-  zh_Hans: bitly_shortner
-  pt_BR: bitly_shortner
+  en_US: Bitly Shortener
+  ja_JP: ビットリー短縮
+  zh_Hans: Bitly短链接
+  pt_BR: Bitly Encurtador
 description:
-  en_US: Uses bitly api to shortern your links and gives analytics for existing links.
-  ja_JP: Uses bitly api to shortern your links and gives analytics for existing links.
-  zh_Hans: Uses bitly api to shortern your links and gives analytics for existing links.
-  pt_BR: Uses bitly api to shortern your links and gives analytics for existing links.
+  en_US: Uses Bitly API to shorten your links and provides analytics for existing links.
+  ja_JP: Bitly APIを使用してリンクを短縮し、既存リンクの分析情報を提供します。
+  zh_Hans: 使用Bitly API缩短您的链接，并为现有链接提供分析。
+  pt_BR: Usa a API do Bitly para encurtar seus links e fornece análises para links existentes.
 icon: icon.svg
 resource:
   memory: 268435456
